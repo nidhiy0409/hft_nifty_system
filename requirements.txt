@@ -1,0 +1,6 @@
+numpy
+pandas
+pytest
+SQLAlchemy
+pyzmq
+python-dotenv
